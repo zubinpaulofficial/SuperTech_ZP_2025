@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Create adv.py module with mod, pow, and sqrt functions">
+    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Added sys to adv.py">
+      <change afterPath="$PROJECT_DIR$/Sky_GOT/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sky_GOT/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sky_GOT/app/tank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sky_GOT/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculator/app/adv.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/app/adv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/app/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/app/basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +80,7 @@
     "Python.demo_variadic_function.executor": "Run",
     "Python.demo_words_user_function.executor": "Run",
     "Python.ex11.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -288,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759326736760</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Added sys to adv.py">
+      <option name="closed" value="true" />
+      <created>1759326816456</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1759326816456</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,7 +341,8 @@
     <MESSAGE value="Created MODERN Python Package structure for a Calculator app with app and tests sub-packages." />
     <MESSAGE value="Create basic.py module with add, mul, and div functions" />
     <MESSAGE value="Create adv.py module with mod, pow, and sqrt functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create adv.py module with mod, pow, and sqrt functions" />
+    <MESSAGE value="Added sys to adv.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added sys to adv.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
