@@ -26,4 +26,15 @@ fh_in = open(r"/Users/zpl123/Documents/Pycharm Projects/Sky_SuperTech_ZP_2025/mo
 text = fh_in.readline()
 print(text)
 
+print('-' * 60)
+
+for line in fh_in:
+    print(line, end='')
+
+print('-' * 60)
+
+for line in open(r"/Users/zpl123/Documents/Pycharm Projects/Sky_SuperTech_ZP_2025/movies.txt", mode="rt"):
+    print(line, end='')
+
 fh_in.close()
+
