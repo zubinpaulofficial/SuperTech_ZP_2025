@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created demo_words_user_function.py">
-      <change afterPath="$PROJECT_DIR$/demo_variadic_function.py" afterDir="false" />
+    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created demo_variadic_function.py">
+      <change afterPath="$PROJECT_DIR$/demo_calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.demo_calc.executor": "Run",
     "Python.demo_counter_loops.executor": "Run",
     "Python.demo_dict_movies.executor": "Run",
     "Python.demo_file_context_resource_manager.executor": "Run",
@@ -246,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759318362873</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Created demo_variadic_function.py">
+      <option name="closed" value="true" />
+      <created>1759323359224</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1759323359224</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,7 +287,8 @@
     <MESSAGE value="Created demo_str_parse.py" />
     <MESSAGE value="Created demo_user_functions.py" />
     <MESSAGE value="Created demo_words_user_function.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created demo_words_user_function.py" />
+    <MESSAGE value="Created demo_variadic_function.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created demo_variadic_function.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -287,6 +297,11 @@
           <url>file://$PROJECT_DIR$/demo_lotto.py</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo_calc.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
