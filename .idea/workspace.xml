@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Updated with iterators demo_file_seq_rw.py">
+      <change afterPath="$PROJECT_DIR$/.idea/Sky_SuperTech_ZP_2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zubinpaulofficial"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zubinpaulofficial/SuperTech_ZP_2025.git",
+    "accountId": "6a131bfa-4b09-4715-9d00-4c4b814a293f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="33N7noKdj7HbkQydmYcN0kiP1Mp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.demo_counter_loops.executor": "Run",
+    "Python.demo_dict_movies.executor": "Run",
+    "Python.demo_file_seq_rw.executor": "Run",
+    "Python.demo_iterator_loops.executor": "Run",
+    "Python.demo_joy_of_sets.executor": "Run",
+    "Python.demo_lotto.executor": "Run",
+    "Python.demo_pin.executor": "Run",
+    "Python.demo_platform.executor": "Run",
+    "Python.demo_str__split_join.executor": "Run",
+    "Python.demo_str_formatting.executor": "Run",
+    "Python.ex11.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="" />
+      <created>1759145845691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759145845691</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Created our first demo script">
+      <option name="closed" value="true" />
+      <created>1759150941687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759150941687</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created and updated demo_lotto.py  with conditional loop to check for duplicate numbers">
+      <option name="closed" value="true" />
+      <created>1759161710540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759161710540</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created demo_pin.py">
+      <option name="closed" value="true" />
+      <created>1759226176279</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759226176279</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created demo_platform.py">
+      <option name="closed" value="true" />
+      <created>1759226196699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759226196699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created demo_counter_loops.py">
+      <option name="closed" value="true" />
+      <created>1759226604066</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759226604066</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created demo_iterator_loops.py">
+      <option name="closed" value="true" />
+      <created>1759228058654</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759228058654</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created demo_str__split_join.py">
+      <option name="closed" value="true" />
+      <created>1759231712238</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759231712238</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Edited demo_lotto.py">
+      <option name="closed" value="true" />
+      <created>1759231736684</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759231736684</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Created demo_str_formatting.py">
+      <option name="closed" value="true" />
+      <created>1759237298983</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759237298983</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Created demo_dict_movies.py">
+      <option name="closed" value="true" />
+      <created>1759245328660</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759245328660</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Created ex11.py">
+      <option name="closed" value="true" />
+      <created>1759245348043</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1759245348043</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Created demo_joy_of_sets.py">
+      <option name="closed" value="true" />
+      <created>1759247286386</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1759247286386</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Created demo_joy_of_sets.py">
+      <option name="closed" value="true" />
+      <created>1759248961926</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1759248961926</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated with iterators demo_file_seq_rw.py">
+      <option name="closed" value="true" />
+      <created>1759307708934</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1759307708934</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created our first demo script" />
+    <MESSAGE value="Created and updated demo_lotto.py  with conditional loop to check for duplicate numbers" />
+    <MESSAGE value="Created demo_pin.py" />
+    <MESSAGE value="Created demo_platform.py" />
+    <MESSAGE value="Created demo_counter_loops.py" />
+    <MESSAGE value="Created demo_iterator_loops.py" />
+    <MESSAGE value="Created demo_str__split_join.py" />
+    <MESSAGE value="Edited demo_lotto.py" />
+    <MESSAGE value="Created demo_str_formatting.py" />
+    <MESSAGE value="Created demo_dict_movies.py" />
+    <MESSAGE value="Created ex11.py" />
+    <MESSAGE value="Created demo_joy_of_sets.py" />
+    <MESSAGE value="Updated with iterators demo_file_seq_rw.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated with iterators demo_file_seq_rw.py" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo_lotto.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
