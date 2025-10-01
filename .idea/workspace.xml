@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created demo_str_parse.py">
-      <change afterPath="$PROJECT_DIR$/demo_user_functions.py" afterDir="false" />
+    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created demo_user_functions.py">
+      <change afterPath="$PROJECT_DIR$/demo_words_user_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.demo_str_formatting.executor": "Run",
     "Python.demo_str_parse.executor": "Run",
     "Python.demo_user_functions.executor": "Run",
+    "Python.demo_words_user_function.executor": "Run",
     "Python.ex11.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -228,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759312976766</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Created demo_user_functions.py">
+      <option name="closed" value="true" />
+      <created>1759317139830</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1759317139830</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,7 +267,8 @@
     <MESSAGE value="Updated with iterators demo_file_seq_rw.py" />
     <MESSAGE value="Created demo_file_context_resource_manager.py" />
     <MESSAGE value="Created demo_str_parse.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created demo_str_parse.py" />
+    <MESSAGE value="Created demo_user_functions.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created demo_user_functions.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
