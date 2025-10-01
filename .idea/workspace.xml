@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created MODERN Python Package structure for a Calculator app with app and tests sub-packages.">
-      <change afterPath="$PROJECT_DIR$/calculator/app/basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Create basic.py module with add, mul, and div functions">
+      <change afterPath="$PROJECT_DIR$/calculator/app/adv.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759326033644</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Create basic.py module with add, mul, and div functions">
+      <option name="closed" value="true" />
+      <created>1759326366123</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1759326366123</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,7 +314,8 @@
     <MESSAGE value="Created demo_variadic_function.py" />
     <MESSAGE value="Created demo_calc.py" />
     <MESSAGE value="Created MODERN Python Package structure for a Calculator app with app and tests sub-packages." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created MODERN Python Package structure for a Calculator app with app and tests sub-packages." />
+    <MESSAGE value="Create basic.py module with add, mul, and div functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create basic.py module with add, mul, and div functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
