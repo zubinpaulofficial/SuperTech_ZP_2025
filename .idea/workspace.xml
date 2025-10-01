@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created demo_user_functions.py">
-      <change afterPath="$PROJECT_DIR$/demo_words_user_function.py" afterDir="false" />
+    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created demo_words_user_function.py">
+      <change afterPath="$PROJECT_DIR$/demo_variadic_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.demo_str_formatting.executor": "Run",
     "Python.demo_str_parse.executor": "Run",
     "Python.demo_user_functions.executor": "Run",
+    "Python.demo_variadic_function.executor": "Run",
     "Python.demo_words_user_function.executor": "Run",
     "Python.ex11.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -237,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759317139830</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Created demo_words_user_function.py">
+      <option name="closed" value="true" />
+      <created>1759318362873</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1759318362873</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,7 +277,8 @@
     <MESSAGE value="Created demo_file_context_resource_manager.py" />
     <MESSAGE value="Created demo_str_parse.py" />
     <MESSAGE value="Created demo_user_functions.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created demo_user_functions.py" />
+    <MESSAGE value="Created demo_words_user_function.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created demo_words_user_function.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
