@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created vehicle.py, updated tank.py to adapt to vehicle class, updated game.py">
+    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Added Flask">
+      <change afterPath="$PROJECT_DIR$/FlaskApp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskApp/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskApp/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,8 +57,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.adv.executor": "Run",
+    "Python.app.executor": "Run",
     "Python.basic.executor": "Run",
     "Python.demo_calc.executor": "Run",
     "Python.demo_counter_loops.executor": "Run",
@@ -331,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759396106086</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added Flask">
+      <option name="closed" value="true" />
+      <created>1759399344038</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1759399344038</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,7 +360,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Created demo_pin.py" />
     <MESSAGE value="Created demo_platform.py" />
     <MESSAGE value="Created demo_counter_loops.py" />
     <MESSAGE value="Created demo_iterator_loops.py" />
@@ -371,7 +384,8 @@
     <MESSAGE value="Updated game.py, tank.py" />
     <MESSAGE value="Updated game.py, tank.py with property" />
     <MESSAGE value="Created vehicle.py, updated tank.py to adapt to vehicle class, updated game.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created vehicle.py, updated tank.py to adapt to vehicle class, updated game.py" />
+    <MESSAGE value="Added Flask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Flask" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
