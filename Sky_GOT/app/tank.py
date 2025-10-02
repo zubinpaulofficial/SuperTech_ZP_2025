@@ -1,19 +1,21 @@
 #! /usr/bin/env python3
 # Author: Zubin Paul
-# Description: This script will demo
+# Description: This module defines a Class of Tank
 """
-    Docstring:
+    Tank Class for a Game of Tanks
 """
 
 class Tank:
+    # Class has 2 components = Attributes/Data + Behaviour/Methods
     def __init__(self, country, model):
-        self.country = country
-        self.model = model
+        self.country = country # Public var
+        self.model = model # Public var
         self._speed = 0
         self._health = 100
-        self._location = {'x': 0, 'y': 0, 'z': 0}
+        self._location = {'x':0, 'y':0, 'z': 0}
         self._direction = 0
         self._shells = 20
+        # No EXPLICIT RETURN as called implicitly.
 
     def accel(self, increase):
         self._speed += increase
@@ -38,3 +40,12 @@ class Tank:
     def take_damage(self, damage):
         self._health -= damage
         return None
+
+    # Some SPECIAL methods..
+    # Example of OPERATOR OVERLOADING
+    def __add__(self, other):
+        return self._health + other._health
+
+    # Example of DUCK TYPING - my Tank can now QUACK like a str!
+    def __str__(self):
+        return f"Model={self.model}, health={self._health}, speed={self._speed}"

@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Added sys to adv.py">
-      <change afterPath="$PROJECT_DIR$/Sky_GOT/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sky_GOT/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sky_GOT/app/tank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sky_GOT/game.py" afterDir="false" />
+    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created tank class, data and methods in tank.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/app/adv.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/app/adv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/app/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/app/basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sky_GOT/app/tank.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sky_GOT/app/tank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sky_GOT/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sky_GOT/game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +75,9 @@
     "Python.demo_variadic_function.executor": "Run",
     "Python.demo_words_user_function.executor": "Run",
     "Python.ex11.executor": "Run",
+    "Python.game.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.tank.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -304,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759326816456</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Created tank class, data and methods in tank.py">
+      <option name="closed" value="true" />
+      <created>1759333497013</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1759333497013</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,7 +347,8 @@
     <MESSAGE value="Create basic.py module with add, mul, and div functions" />
     <MESSAGE value="Create adv.py module with mod, pow, and sqrt functions" />
     <MESSAGE value="Added sys to adv.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added sys to adv.py" />
+    <MESSAGE value="Created tank class, data and methods in tank.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created tank class, data and methods in tank.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
