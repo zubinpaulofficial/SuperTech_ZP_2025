@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Created tank class, data and methods in tank.py">
+    <list default="true" id="04c48e59-f75a-4e84-bc08-434a872d7714" name="Changes" comment="Updated game.py, tank.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sky_GOT/app/tank.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sky_GOT/app/tank.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sky_GOT/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sky_GOT/game.py" afterDir="false" />
@@ -309,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759333497013</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Updated game.py, tank.py">
+      <option name="closed" value="true" />
+      <created>1759392601280</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1759392601280</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,7 +356,8 @@
     <MESSAGE value="Create adv.py module with mod, pow, and sqrt functions" />
     <MESSAGE value="Added sys to adv.py" />
     <MESSAGE value="Created tank class, data and methods in tank.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created tank class, data and methods in tank.py" />
+    <MESSAGE value="Updated game.py, tank.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated game.py, tank.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
